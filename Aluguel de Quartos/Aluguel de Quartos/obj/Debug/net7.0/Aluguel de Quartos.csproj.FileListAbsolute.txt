@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\bin\Debug\net7.0\Aluguel de Quartos.exe
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\bin\Debug\net7.0\Aluguel de Quartos.deps.json
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\bin\Debug\net7.0\Aluguel de Quartos.runtimeconfig.json
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\bin\Debug\net7.0\Aluguel de Quartos.dll
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\bin\Debug\net7.0\Aluguel de Quartos.pdb
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.AssemblyInfo.cs
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.dll
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\refint\Aluguel de Quartos.dll
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.pdb
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\Aluguel de Quartos.genruntimeconfig.cache
+D:\Códigos\Estudo\Aluguel de Quartos\Aluguel de Quartos\obj\Debug\net7.0\ref\Aluguel de Quartos.dll

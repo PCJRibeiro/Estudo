@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.AssemblyInfo.cs
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.exe
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.deps.json
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.runtimeconfig.json
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.dll
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.pdb
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.dll
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\refint\MediaEscolar.dll
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.pdb
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.genruntimeconfig.cache
+D:\Códigos\Estudo\MediaEscolar\MediaEscolar\obj\Debug\net7.0\ref\MediaEscolar.dll

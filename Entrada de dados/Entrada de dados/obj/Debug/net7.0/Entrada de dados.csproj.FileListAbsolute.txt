@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\bin\Debug\net7.0\Entrada de dados.exe
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\bin\Debug\net7.0\Entrada de dados.deps.json
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\bin\Debug\net7.0\Entrada de dados.runtimeconfig.json
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\bin\Debug\net7.0\Entrada de dados.dll
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\bin\Debug\net7.0\Entrada de dados.pdb
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.AssemblyInfo.cs
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.dll
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\refint\Entrada de dados.dll
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.pdb
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\Entrada de dados.genruntimeconfig.cache
+D:\Códigos\Estudo\Entrada de dados\Entrada de dados\obj\Debug\net7.0\ref\Entrada de dados.dll

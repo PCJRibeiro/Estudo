@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\bin\Debug\net7.0\Listagem De Funcionario.exe
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\bin\Debug\net7.0\Listagem De Funcionario.deps.json
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\bin\Debug\net7.0\Listagem De Funcionario.runtimeconfig.json
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\bin\Debug\net7.0\Listagem De Funcionario.dll
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\bin\Debug\net7.0\Listagem De Funcionario.pdb
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.AssemblyInfo.cs
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.dll
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\refint\Listagem De Funcionario.dll
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.pdb
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\Listagem De Funcionario.genruntimeconfig.cache
+D:\Códigos\Estudo\Listagem De Funcionario\Listagem De Funcionario\obj\Debug\net7.0\ref\Listagem De Funcionario.dll

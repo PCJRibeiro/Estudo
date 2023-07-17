@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\bin\Debug\net7.0\LarguraRetangulo.exe
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\bin\Debug\net7.0\LarguraRetangulo.deps.json
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\bin\Debug\net7.0\LarguraRetangulo.runtimeconfig.json
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\bin\Debug\net7.0\LarguraRetangulo.dll
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\bin\Debug\net7.0\LarguraRetangulo.pdb
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.AssemblyInfo.cs
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.dll
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\refint\LarguraRetangulo.dll
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.pdb
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\LarguraRetangulo.genruntimeconfig.cache
+D:\Códigos\Estudo\LarguraRetangulo\LarguraRetangulo\obj\Debug\net7.0\ref\LarguraRetangulo.dll

@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\bin\Debug\net7.0\Numeronegativo.exe
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\bin\Debug\net7.0\Numeronegativo.deps.json
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\bin\Debug\net7.0\Numeronegativo.runtimeconfig.json
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\bin\Debug\net7.0\Numeronegativo.dll
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\bin\Debug\net7.0\Numeronegativo.pdb
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.AssemblyInfo.cs
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.dll
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\refint\Numeronegativo.dll
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.pdb
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\Numeronegativo.genruntimeconfig.cache
+D:\Códigos\Estudo\Numeronegativo\Numeronegativo\obj\Debug\net7.0\ref\Numeronegativo.dll
