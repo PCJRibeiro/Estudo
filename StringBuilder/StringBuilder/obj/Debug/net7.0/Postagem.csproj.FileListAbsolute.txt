@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\StringBuilder\StringBuilder\bin\Debug\net7.0\Postagem.exe
+D:\Códigos\Estudo\StringBuilder\StringBuilder\bin\Debug\net7.0\Postagem.deps.json
+D:\Códigos\Estudo\StringBuilder\StringBuilder\bin\Debug\net7.0\Postagem.runtimeconfig.json
+D:\Códigos\Estudo\StringBuilder\StringBuilder\bin\Debug\net7.0\Postagem.dll
+D:\Códigos\Estudo\StringBuilder\StringBuilder\bin\Debug\net7.0\Postagem.pdb
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.AssemblyInfo.cs
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.dll
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\refint\Postagem.dll
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.pdb
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\Postagem.genruntimeconfig.cache
+D:\Códigos\Estudo\StringBuilder\StringBuilder\obj\Debug\net7.0\ref\Postagem.dll
