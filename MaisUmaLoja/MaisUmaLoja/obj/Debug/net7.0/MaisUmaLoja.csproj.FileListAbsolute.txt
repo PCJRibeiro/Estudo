@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\bin\Debug\net7.0\MaisUmaLoja.exe
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\bin\Debug\net7.0\MaisUmaLoja.deps.json
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\bin\Debug\net7.0\MaisUmaLoja.runtimeconfig.json
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\bin\Debug\net7.0\MaisUmaLoja.dll
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\bin\Debug\net7.0\MaisUmaLoja.pdb
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.AssemblyInfo.cs
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.dll
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\refint\MaisUmaLoja.dll
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.pdb
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\MaisUmaLoja.genruntimeconfig.cache
+D:\Códigos\Estudo\MaisUmaLoja\MaisUmaLoja\obj\Debug\net7.0\ref\MaisUmaLoja.dll

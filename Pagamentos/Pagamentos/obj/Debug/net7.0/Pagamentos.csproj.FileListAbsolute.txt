@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.AssemblyInfo.cs
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.exe
+D:\Códigos\Estudo\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.deps.json
+D:\Códigos\Estudo\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.runtimeconfig.json
+D:\Códigos\Estudo\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.dll
+D:\Códigos\Estudo\Pagamentos\Pagamentos\bin\Debug\net7.0\Pagamentos.pdb
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.dll
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\refint\Pagamentos.dll
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.pdb
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\Pagamentos.genruntimeconfig.cache
+D:\Códigos\Estudo\Pagamentos\Pagamentos\obj\Debug\net7.0\ref\Pagamentos.dll

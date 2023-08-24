@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\bin\Debug\net7.0\SumarioDePedidos.exe
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\bin\Debug\net7.0\SumarioDePedidos.deps.json
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\bin\Debug\net7.0\SumarioDePedidos.runtimeconfig.json
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\bin\Debug\net7.0\SumarioDePedidos.dll
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\bin\Debug\net7.0\SumarioDePedidos.pdb
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.AssemblyInfo.cs
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.dll
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\refint\SumarioDePedidos.dll
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.pdb
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\SumarioDePedidos.genruntimeconfig.cache
+D:\Códigos\Estudo\SumarioDePedidos\SumarioDePedidos\obj\Debug\net7.0\ref\SumarioDePedidos.dll

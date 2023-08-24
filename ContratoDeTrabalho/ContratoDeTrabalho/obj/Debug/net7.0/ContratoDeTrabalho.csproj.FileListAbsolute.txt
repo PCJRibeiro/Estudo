@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\net7.0\ContratoDeTrabalho.exe
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\net7.0\ContratoDeTrabalho.deps.json
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\net7.0\ContratoDeTrabalho.runtimeconfig.json
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\net7.0\ContratoDeTrabalho.dll
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\net7.0\ContratoDeTrabalho.pdb
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.AssemblyInfo.cs
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.dll
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\refint\ContratoDeTrabalho.dll
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.pdb
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ContratoDeTrabalho.genruntimeconfig.cache
+D:\Códigos\Estudo\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\net7.0\ref\ContratoDeTrabalho.dll

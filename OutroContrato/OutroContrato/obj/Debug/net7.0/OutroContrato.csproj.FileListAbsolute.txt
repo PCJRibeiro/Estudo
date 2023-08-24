@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\OutroContrato\OutroContrato\bin\Debug\net7.0\OutroContrato.exe
+D:\Códigos\Estudo\OutroContrato\OutroContrato\bin\Debug\net7.0\OutroContrato.deps.json
+D:\Códigos\Estudo\OutroContrato\OutroContrato\bin\Debug\net7.0\OutroContrato.runtimeconfig.json
+D:\Códigos\Estudo\OutroContrato\OutroContrato\bin\Debug\net7.0\OutroContrato.dll
+D:\Códigos\Estudo\OutroContrato\OutroContrato\bin\Debug\net7.0\OutroContrato.pdb
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.AssemblyInfo.cs
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.dll
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\refint\OutroContrato.dll
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.pdb
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\OutroContrato.genruntimeconfig.cache
+D:\Códigos\Estudo\OutroContrato\OutroContrato\obj\Debug\net7.0\ref\OutroContrato.dll
