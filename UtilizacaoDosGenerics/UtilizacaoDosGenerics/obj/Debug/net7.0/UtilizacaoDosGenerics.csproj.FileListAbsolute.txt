@@ -1,0 +1,15 @@
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\bin\Debug\net7.0\UtilizacaoDosGenerics.exe
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\bin\Debug\net7.0\UtilizacaoDosGenerics.deps.json
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\bin\Debug\net7.0\UtilizacaoDosGenerics.runtimeconfig.json
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\bin\Debug\net7.0\UtilizacaoDosGenerics.dll
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\bin\Debug\net7.0\UtilizacaoDosGenerics.pdb
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.AssemblyInfo.cs
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.dll
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\refint\UtilizacaoDosGenerics.dll
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.pdb
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\UtilizacaoDosGenerics.genruntimeconfig.cache
+D:\Códigos\Estudo\UtilizacaoDosGenerics\UtilizacaoDosGenerics\obj\Debug\net7.0\ref\UtilizacaoDosGenerics.dll

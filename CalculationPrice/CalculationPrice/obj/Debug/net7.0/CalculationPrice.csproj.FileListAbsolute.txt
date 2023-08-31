@@ -1,0 +1,14 @@
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\CalculationPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\CalculationPrice.AssemblyInfoInputs.cache
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\CalculationPrice.AssemblyInfo.cs
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\CalculationPrice.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\bin\Debug\net7.0\CalculationPrice.exe
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\bin\Debug\net7.0\CalculationPrice.deps.json
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\bin\Debug\net7.0\CalculationPrice.runtimeconfig.json
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\bin\Debug\net7.0\CalculationPrice.dll
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\bin\Debug\net7.0\CalculationPrice.pdb
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\CalculationPrice.dll
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\refint\CalculationPrice.dll
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\CalculationPrice.pdb
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\CalculationPrice.genruntimeconfig.cache
+D:\Códigos\Estudo\CalculationPrice\CalculationPrice\obj\Debug\net7.0\ref\CalculationPrice.dll
