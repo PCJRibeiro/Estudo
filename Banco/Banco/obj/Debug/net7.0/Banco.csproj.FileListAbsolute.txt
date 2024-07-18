@@ -13,3 +13,17 @@ D:\Códigos\Estudo\Banco\Banco\obj\Debug\net7.0\refint\Banco.dll
 D:\Códigos\Estudo\Banco\Banco\obj\Debug\net7.0\Banco.pdb
 D:\Códigos\Estudo\Banco\Banco\obj\Debug\net7.0\Banco.genruntimeconfig.cache
 D:\Códigos\Estudo\Banco\Banco\obj\Debug\net7.0\ref\Banco.dll
+D:\Códigos\Estudo C#\Banco\Banco\bin\Debug\net7.0\Banco.exe
+D:\Códigos\Estudo C#\Banco\Banco\bin\Debug\net7.0\Banco.deps.json
+D:\Códigos\Estudo C#\Banco\Banco\bin\Debug\net7.0\Banco.runtimeconfig.json
+D:\Códigos\Estudo C#\Banco\Banco\bin\Debug\net7.0\Banco.dll
+D:\Códigos\Estudo C#\Banco\Banco\bin\Debug\net7.0\Banco.pdb
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\Banco.AssemblyInfoInputs.cache
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\Banco.AssemblyInfo.cs
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\Banco.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\Banco.dll
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\refint\Banco.dll
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\Banco.pdb
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\Banco.genruntimeconfig.cache
+D:\Códigos\Estudo C#\Banco\Banco\obj\Debug\net7.0\ref\Banco.dll
