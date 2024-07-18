@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\entites\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\entites\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\modelopi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\modelopi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\migrations\\agendadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\migrations\\agendadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\migrations\\20240418041743_mssql.onprem_migration_368.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\migrations\\20240418041743_mssql.onprem_migration_368.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|d:\\c\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\modelopi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{75303D2D-5118-4600-82A4-4A43EAED4234}|modelopi\\modelopi.csproj|solutionrelative:modelopi\\modelopi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "modelopi\\Controllers\\ContatoController.cs",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "modelopi\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:51:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Context\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "modelopi\\Context\\AgendaContext.cs",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Context\\AgendaContext.cs",
+              "RelativeToolTip": "modelopi\\Context\\AgendaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:40:44.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Entites\\Contato.cs",
+              "RelativeDocumentMoniker": "modelopi\\Entites\\Contato.cs",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Entites\\Contato.cs",
+              "RelativeToolTip": "modelopi\\Entites\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:11:22.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "modelopi\\appsettings.Development.json",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\appsettings.Development.json",
+              "RelativeToolTip": "modelopi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T20:56:21.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\appsettings.json",
+              "RelativeDocumentMoniker": "modelopi\\appsettings.json",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\appsettings.json",
+              "RelativeToolTip": "modelopi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T00:33:41.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Program.cs",
+              "RelativeDocumentMoniker": "modelopi\\Program.cs",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Program.cs",
+              "RelativeToolTip": "modelopi\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:28:59.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "modelopi.csproj",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\modelopi.csproj",
+              "RelativeDocumentMoniker": "modelopi\\modelopi.csproj",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\modelopi.csproj",
+              "RelativeToolTip": "modelopi\\modelopi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T05:27:30.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Migrations\\AgendaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "modelopi\\Migrations\\AgendaDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Migrations\\AgendaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "modelopi\\Migrations\\AgendaDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:59:37.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240418041743_mssql.onprem_migration_368.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Migrations\\20240418041743_mssql.onprem_migration_368.cs",
+              "RelativeDocumentMoniker": "modelopi\\Migrations\\20240418041743_mssql.onprem_migration_368.cs",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\Migrations\\20240418041743_mssql.onprem_migration_368.cs",
+              "RelativeToolTip": "modelopi\\Migrations\\20240418041743_mssql.onprem_migration_368.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:50:23.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "modelopi.http",
+              "DocumentMoniker": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\modelopi.http",
+              "RelativeDocumentMoniker": "modelopi\\modelopi.http",
+              "ToolTip": "D:\\C\u00F3digos\\abstra\u00E7\u00E3o celular\\modelopi\\modelopi\\modelopi.http",
+              "RelativeToolTip": "modelopi\\modelopi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-22T04:57:41.373Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

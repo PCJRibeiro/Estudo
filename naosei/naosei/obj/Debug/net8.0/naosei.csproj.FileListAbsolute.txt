@@ -1,0 +1,14 @@
+D:\Códigos\naosei\naosei\bin\Debug\net8.0\naosei.exe
+D:\Códigos\naosei\naosei\bin\Debug\net8.0\naosei.deps.json
+D:\Códigos\naosei\naosei\bin\Debug\net8.0\naosei.runtimeconfig.json
+D:\Códigos\naosei\naosei\bin\Debug\net8.0\naosei.dll
+D:\Códigos\naosei\naosei\bin\Debug\net8.0\naosei.pdb
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\naosei.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\naosei.AssemblyInfoInputs.cache
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\naosei.AssemblyInfo.cs
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\naosei.csproj.CoreCompileInputs.cache
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\naosei.dll
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\refint\naosei.dll
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\naosei.pdb
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\naosei.genruntimeconfig.cache
+D:\Códigos\naosei\naosei\obj\Debug\net8.0\ref\naosei.dll

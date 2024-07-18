@@ -1,0 +1,350 @@
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\appsettings.Development.json
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\appsettings.json
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.exe
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.deps.json
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.runtimeconfig.json
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.runtimeconfig.dev.json
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.dll
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.pdb
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.Views.dll
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\PIMIVRH.Views.pdb
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.csproj.AssemblyReference.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.GeneratedMSBuildEditorConfig.editorconfig
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.AssemblyInfoInputs.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.AssemblyInfo.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.csproj.CoreCompileInputs.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.MvcApplicationPartsAssemblyInfo.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.Manifest.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\scopedcss\bundle\PIMIVRH.styles.css
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.TagHelpers.input.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.TagHelpers.output.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.RazorCoreGenerate.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cs
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.Views.pdb
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.dll
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\ref\PIMIVRH.dll
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.pdb
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.genruntimeconfig.cache
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\PIMIVRH.csproj.CopyComplete
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\ref\PIMIVRH.dll
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.xml
+D:\PIM IV\PIMIVRH\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\PIM IV\PIMIVRH\bin\Debug\net5.0\libman.json
+D:\PIM IV\PIMIV\bin\Debug\net5.0\appsettings.Development.json
+D:\PIM IV\PIMIV\bin\Debug\net5.0\appsettings.json
+D:\PIM IV\PIMIV\bin\Debug\net5.0\libman.json
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.exe
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.deps.json
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.runtimeconfig.json
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.runtimeconfig.dev.json
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.dll
+D:\PIM IV\PIMIV\bin\Debug\net5.0\ref\PIMIVRH.dll
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.pdb
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.Views.dll
+D:\PIM IV\PIMIV\bin\Debug\net5.0\PIMIVRH.Views.pdb
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.csproj.AssemblyReference.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.GeneratedMSBuildEditorConfig.editorconfig
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.AssemblyInfoInputs.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.AssemblyInfo.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.csproj.CoreCompileInputs.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.MvcApplicationPartsAssemblyInfo.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.Manifest.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.xml
+D:\PIM IV\PIMIV\obj\Debug\net5.0\scopedcss\bundle\PIMIVRH.styles.css
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.TagHelpers.input.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.TagHelpers.output.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.RazorCoreGenerate.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cs
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.Views.pdb
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.dll
+D:\PIM IV\PIMIV\obj\Debug\net5.0\ref\PIMIVRH.dll
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.pdb
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.genruntimeconfig.cache
+D:\PIM IV\PIMIV\obj\Debug\net5.0\PIMIVRH.csproj.CopyComplete
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\appsettings.Development.json
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\appsettings.json
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\libman.json
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.exe
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.deps.json
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.runtimeconfig.json
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.runtimeconfig.dev.json
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ref\PIMIVRH.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.pdb
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.Views.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.Views.pdb
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Humanizer.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.csproj.AssemblyReference.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.GeneratedMSBuildEditorConfig.editorconfig
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.AssemblyInfoInputs.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.AssemblyInfo.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.csproj.CoreCompileInputs.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.MvcApplicationPartsAssemblyInfo.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.Manifest.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.xml
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\scopedcss\bundle\PIMIVRH.styles.css
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.TagHelpers.input.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.TagHelpers.output.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorCoreGenerate.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Folha\Index.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Ponto\Index.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.Views.pdb
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.csproj.CopyComplete
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\ref\PIMIVRH.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.pdb
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.genruntimeconfig.cache
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\itextsharp.dll
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Ferias\Index.cshtml.g.cs
+D:\TESTE\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Alterar\Index.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\appsettings.Development.json
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\appsettings.json
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\libman.json
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.StaticWebAssets.xml
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.exe
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.deps.json
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.runtimeconfig.json
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.runtimeconfig.dev.json
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.pdb
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.Views.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\PIMIVRH.Views.pdb
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Humanizer.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\itextsharp.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.csproj.AssemblyReference.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.AssemblyInfoInputs.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.AssemblyInfo.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.csproj.CoreCompileInputs.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.MvcApplicationPartsAssemblyInfo.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorAssemblyInfo.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.sourcelink.json
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.TagHelpers.input.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.TagHelpers.output.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorCoreGenerate.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Alterar\Index.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Ferias\Index.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Folha\Index.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Ponto\Index.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.RazorTargetAssemblyInfo.cs
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.Views.pdb
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\scopedcss\bundle\PIMIVRH.styles.css
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.Manifest.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\PIMIVRH.StaticWebAssets.Pack.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\msbuild.PIMIVRH.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\msbuild.build.PIMIVRH.props
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PIMIVRH.props
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PIMIVRH.props
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.csproj.Up2Date
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\refint\PIMIVRH.dll
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.pdb
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\PIMIVRH.genruntimeconfig.cache
+D:\Códigos\RHSOLUTIONS24\RHSOLUTIONS\RHSOLUTIONS\obj\Debug\net5.0\ref\PIMIVRH.dll

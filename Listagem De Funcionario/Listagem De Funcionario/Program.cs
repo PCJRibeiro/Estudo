@@ -34,8 +34,7 @@ namespace Listagem_De_Funcionario
             Console.Write("Entre com o id daquele que tera o salário aumentado: ");
             int VerificaroId = int.Parse(Console.ReadLine());
 
-            Funcionario pos = list.Find( x => x.Id == VerificaroId);
-            Console.Write("Entre a porcentagem: ");
+            Funcionario pos = list.Find( x => x.Id == VerificaroId);          
             if (pos != null)
             {
                 Console.Write("Entre com a porcentagem: ");

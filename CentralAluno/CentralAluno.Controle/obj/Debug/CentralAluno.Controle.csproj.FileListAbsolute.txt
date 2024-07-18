@@ -1,0 +1,12 @@
+D:\Documentos\Aula_POOII_25082023\CentralAluno\CentralAluno.Controle\bin\Debug\CentralAluno.Controle.dll
+D:\Documentos\Aula_POOII_25082023\CentralAluno\CentralAluno.Controle\bin\Debug\CentralAluno.Controle.pdb
+D:\Documentos\Aula_POOII_25082023\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.csproj.AssemblyReference.cache
+D:\Documentos\Aula_POOII_25082023\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.csproj.CoreCompileInputs.cache
+D:\Documentos\Aula_POOII_25082023\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.dll
+D:\Documentos\Aula_POOII_25082023\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.pdb
+D:\Códigos\Estudo\CentralAluno\CentralAluno.Controle\bin\Debug\CentralAluno.Controle.dll
+D:\Códigos\Estudo\CentralAluno\CentralAluno.Controle\bin\Debug\CentralAluno.Controle.pdb
+D:\Códigos\Estudo\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.csproj.AssemblyReference.cache
+D:\Códigos\Estudo\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.csproj.CoreCompileInputs.cache
+D:\Códigos\Estudo\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.dll
+D:\Códigos\Estudo\CentralAluno\CentralAluno.Controle\obj\Debug\CentralAluno.Controle.pdb

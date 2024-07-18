@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u00F3digos\\ModelMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\modelmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\modelmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\context\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|d:\\c\u00F3digos\\modelmvc\\modelmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0367E2E1-4C1D-404B-AE3D-C09EC3A382BB}|ModelMVC\\ModelMVC.csproj|solutionrelative:modelmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ModelMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ModelMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T04:26:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deletar.cshtml",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeDocumentMoniker": "ModelMVC\\Views\\Contato\\Deletar.cshtml",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeToolTip": "ModelMVC\\Views\\Contato\\Deletar.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T00:06:35.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "ModelMVC\\Views\\Contato\\Detalhes.cshtml",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeToolTip": "ModelMVC\\Views\\Contato\\Detalhes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T20:01:33.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ModelMVC\\Views\\Contato\\Editar.cshtml",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "ModelMVC\\Views\\Contato\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T04:13:37.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ModelMVC\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "ModelMVC\\Views\\Contato\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T01:43:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelMVC\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "ModelMVC\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T00:27:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ModelMVC\\Controllers\\ContatoController.cs",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ModelMVC\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:33:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:42:56.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ModelMVC\\appsettings.Development.json",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\appsettings.Development.json",
+              "RelativeToolTip": "ModelMVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T04:24:17.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ModelMVC\\appsettings.json",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\appsettings.json",
+              "RelativeToolTip": "ModelMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T04:24:18.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "ModelMVC\\Models\\Contato.cs",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Models\\Contato.cs",
+              "RelativeToolTip": "ModelMVC\\Models\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:24:17.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelMVC.csproj",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\ModelMVC.csproj",
+              "RelativeDocumentMoniker": "ModelMVC\\ModelMVC.csproj",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\ModelMVC.csproj",
+              "RelativeToolTip": "ModelMVC\\ModelMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T04:24:16.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ModelMVC\\Program.cs",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Program.cs",
+              "RelativeToolTip": "ModelMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:24:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Context\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "ModelMVC\\Context\\AgendaContext.cs",
+              "ToolTip": "D:\\C\u00F3digos\\ModelMVC\\ModelMVC\\Context\\AgendaContext.cs",
+              "RelativeToolTip": "ModelMVC\\Context\\AgendaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:24:17.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

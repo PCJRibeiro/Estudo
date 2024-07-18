@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model LoginModel
+<body style="margin-top:10%">
+    <div class="container">
+        <h2 style="margin-left: 28%">Bem vindo ao Portal Rh Solutions</h2>
+    </div>
+    <div class="container align-content-center border rounded" style="padding:20px; width:500px">
+        <form >
+            <div class="form-group">
+                <label for="exampleInputEmail1">Funcional</label>
+                <input type="text" asp-for="Funcional" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Funcional do usuário">
+                <small id="emailHelp" class="form-text text-muted">Nunca compartilhe a sua funcional</small>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Senha</label>
+                <input type="password" asp-for="Senha" class="form-control" id="exampleInputPassword1" placeholder="Senha">
+            </div>
+            <button type="submit" asp-controller="Login" asp-action="ValidaUsuario" class="btn btn-primary">Entrar</button>
+        </form>
+        @if (TempData["MensagemErro"] != null)
+        {
+            <div class="alert alert-danger" role="alert" style="margin-top: 15px">
+                @TempData["MensagemErro"]
+            </div>
+        }
+    </div>
+</body>

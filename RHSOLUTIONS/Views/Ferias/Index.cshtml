@@ -1,0 +1,342 @@
+﻿@model FeriasModel
+<head>
+    <meta charset="utf-8" />
+    @*<link rel="stylesheet" href="../Views/style/HomePage.css" />*@
+    <link href="~/lib/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+</head>
+<body style="margin-bottom: 0%">
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-auto col-md-2 bg-dark min-vh-100">
+                <div class="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
+                    <a href="/" class="d-flex align-items-center pb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+
+                        <span class="fs-5 d-none d-sm-inline ">Bem Vindo </span>
+
+                    </a>
+                    <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
+                        <li class="nav-item">
+                            <a class="nav-link align-middle px-0" asp-controller="Home" asp-action="Index">
+                                <i class="fs-4 bi-house"></i> <span class="ms-1 d-none d-sm-inline">Home</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a data-bs-toggle="collapse" asp-controller="Ponto" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-clock"></i> <span class="ms-1 d-none d-sm-inline">Ponto eletrônico</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-controller="Folha" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-table"></i> <span class="ms-1 d-none d-sm-inline">Folhas de pagamento</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-controller="Ferias" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-airplane"></i> <span class="ms-1 d-none d-sm-inline">Férias</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a data-bs-toggle="collapse" asp-controller="Login" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-box-arrow-in-left"></i> <span class="ms-1 d-none d-sm-inline">Sair</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <hr>
+                </div>
+            </div>
+            <div>
+            </div>
+            <div class="container">
+                <div class="row border Regular shadow" style="margin-top:20px; margin-bottom:20px">
+                    <a>
+                        <i class="fs-4 bi-airplane" style="font-size:30px; margin-right: 20px; margin-left:10px"></i><span style="font-size:30px">Ferias</span>
+                    </a>
+                </div>
+                <h3 style="width: 700px" class="">Selecione em quantos periodos deseja dividir as ferias</h3>
+
+                <form method="post">
+
+                    <div class="container" style="margin-bottom: 20px">
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="Periodos" id="inlineRadio1" value="1">
+                            <label class="form-check-label" for="inlineRadio1">1</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="Periodos" id="inlineRadio2" value="2">
+                            <label class="form-check-label" for="inlineRadio2">2</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="Periodos" id="inlineRadio3" value="3">
+                            <label class="form-check-label" for="inlineRadio3">3</label>
+                        </div>
+                    </div>
+                    <div class="container border" id="divPeriod1" style="display: none; margin-bottom: 20px">
+                        <h4>Primeiro periodo</h4>
+
+                        <div class="form-group">
+                            <label for="EnterDatainicio">Data Inicio</label>
+                            <input type="date" asp-for="EntradaPrimeiroPeriodo" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Data início">
+                        </div>
+                        <label for="inputQtdDias">Qtd Dias</label>
+                        <select class="form-control" asp-for="QtdDiasPrimeiroPeriodo" style="width:70px; margin-bottom: 20px">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                            <option>6</option>
+                            <option>7</option>
+                            <option>8</option>
+                            <option>9</option>
+                            <option>10</option>
+                            <option>11</option>
+                            <option>12</option>
+                            <option>13</option>
+                            <option>14</option>
+                            <option>15</option>
+                            <option>16</option>
+                            <option>17</option>
+                            <option>18</option>
+                            <option>19</option>
+                            <option>20</option>
+                            <option>21</option>
+                            <option>22</option>
+                            <option>23</option>
+                            <option>24</option>
+                            <option>25</option>
+                            <option>26</option>
+                            <option>27</option>
+                            <option>28</option>
+                            <option>29</option>
+                            <option>30</option>
+                        </select>
+                    </div>
+
+                        <div class="container border" id="divPeriod2" style="display: none; margin-bottom: 20px">
+                            <h4>Segundo periodo</h4>
+                            <div class="form-group">
+                                <label for="EnterDataInicioSegundoPer">Data Inicio</label>
+                                <input type="date" asp-for="EntradaSegundoPeriodo" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                            </div>
+                            <label for="inputQtdDiasSegundoPer">Qtd Dias</label>
+                            <select class="form-control" asp-for="QtdDiasSegundoPeriodo" style="width: 70px; margin-bottom: 20px">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                                <option>7</option>
+                                <option>8</option>
+                                <option>9</option>
+                                <option>10</option>
+                                <option>11</option>
+                                <option>12</option>
+                                <option>13</option>
+                                <option>14</option>
+                                <option>15</option>
+                                <option>16</option>
+                                <option>17</option>
+                                <option>18</option>
+                                <option>19</option>
+                                <option>20</option>
+                                <option>21</option>
+                                <option>22</option>
+                                <option>23</option>
+                                <option>24</option>
+                                <option>25</option>
+                                <option>26</option>
+                                <option>27</option>
+                                <option>28</option>
+                                <option>29</option>
+                                <option>30</option>
+                            </select>
+                        </div>
+
+                        <div class="container border" id="divPeriod3" style="display: none; margin-bottom: 20px">
+                            <h4>Terceiro periodo</h4>
+                            <div class="form-group">
+                                <label for="DataInicioTerceiroPer">Data Inicio</label>
+                                <input type="date" asp-for="EntradaTerceiroPeriodo" class="form-control" id="inputDataIni" aria-describedby="emailHelp" placeholder="Data Início">
+                            </div>
+                            <label for="inputQtdDiasTerceiroPer">Qtd Dias</label>
+                            <select class="form-control" asp-for="QtdDiasTerceiroPeriodo"  style="width:70px; margin-bottom: 20px">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                                <option>7</option>
+                                <option>8</option>
+                                <option>9</option>
+                                <option>10</option>
+                                <option>11</option>
+                                <option>12</option>
+                                <option>13</option>
+                                <option>14</option>
+                                <option>15</option>
+                                <option>16</option>
+                                <option>17</option>
+                                <option>18</option>
+                                <option>19</option>
+                                <option>20</option>
+                                <option>21</option>
+                                <option>22</option>
+                                <option>23</option>
+                                <option>24</option>
+                                <option>25</option>
+                                <option>26</option>
+                                <option>27</option>
+                                <option>28</option>
+                                <option>29</option>
+                                <option>30</option>
+                            </select>
+                        </div>
+                        <button class="btn btn-primary" id="Enviar" style="margin-bottom: 10px; display: none;" type="submit" asp-controller="Ferias" asp-action="insertFerias">Solicitar</button>
+                    
+                </form>
+                <div>
+                    <h3>Suas Férias</h3>
+                    <form>
+                        @if (Model.QtdPeriodos == 1)
+                        {
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Entrada</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.EntradaPrimeiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Retorno</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.SaidaPrimeiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <p>Data limite do gozo: @Model.DataLimiteGozo</p>
+                        }
+                        @if (Model.QtdPeriodos == 2)
+                        {
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Entrada</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.EntradaPrimeiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Retorno</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.SaidaPrimeiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Entrada</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.EntradaSegundoPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Retorno</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.SaidaSegundoPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <p>Data limite do gozo: @Model.DataLimiteGozo</p>
+                        }
+                        @if (Model.QtdPeriodos == 3)
+                        {
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Entrada</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.EntradaPrimeiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Retorno</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.SaidaPrimeiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Entrada</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.EntradaSegundoPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Retorno</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.SaidaSegundoPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Entrada</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.EntradaTerceiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="staticEmail" class="col-sm-2 col-form-label">Retorno</label>
+                                <div class="col-sm-10">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="@Model.SaidaTerceiroPeriodo.ToString("dd-MM-yyyy")">
+                                </div>
+                            </div>
+                            <p>Data limite do gozo: @Model.DataLimiteGozo</p>
+                        }
+                        @if (Model.QtdPeriodos != 1 && Model.QtdPeriodos != 2 && Model.QtdPeriodos != 3)
+                        {
+                            <p>Férias ainda não agendadas</p>
+                            <p>Data limite do gozo: @Model.DataLimiteGozo</p>
+                        }
+                    </form>
+
+                    @if (TempData["Erro"] != null)
+                    {
+                        <div class="alert alert-danger" role="alert" style="margin-top: 15px">
+                            @TempData["Erro"]
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <script>
+                    // Função para mostrar/ocultar as divs de período com base na seleção do usuário
+                    function togglePeriodDivs() {
+                        var selectedValue = document.querySelector('input[name="Periodos"]:checked').value;
+
+                        // Oculta todas as divs de período
+                        document.getElementById("divPeriod1").style.display = "none";
+                        document.getElementById("divPeriod2").style.display = "none";
+                        document.getElementById("divPeriod3").style.display = "none";
+
+
+                        // Mostra a div de período correspondente à seleção
+                        if (selectedValue === "1") {
+                            document.getElementById("divPeriod1").style.display = "block";
+                            document.getElementById("Enviar").style.display = "block";
+                        } else if (selectedValue === "2") {
+                            document.getElementById("divPeriod1").style.display = "block";
+                            document.getElementById("divPeriod2").style.display = "block";
+                            document.getElementById("Enviar").style.display = "block";
+                        } else if (selectedValue === "3") {
+                            document.getElementById("divPeriod1").style.display = "block";
+                            document.getElementById("divPeriod2").style.display = "block";
+                            document.getElementById("divPeriod3").style.display = "block";
+                            document.getElementById("Enviar").style.display = "block";
+                        }
+                    }
+
+                    // Adicione um ouvinte de evento para os botões de opção de rádio
+                    var radioButtons = document.querySelectorAll('input[name="Periodos"]');
+                    radioButtons.forEach(function (radioButton) {
+                        radioButton.addEventListener("change", togglePeriodDivs);
+                    });
+
+                    // Chame a função inicialmente para refletir o estado inicial da seleção
+                    togglePeriodDivs();
+            </script>
+
+        </div>
+    </div>
+    </div>
+</body>

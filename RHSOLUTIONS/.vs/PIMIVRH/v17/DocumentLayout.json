@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|d:\\c\u00F3digos\\rhsolutions24\\rhsolutions\\rhsolutions\\interfaces\\conexaosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|solutionrelative:interfaces\\conexaosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|d:\\c\u00F3digos\\rhsolutions24\\rhsolutions\\rhsolutions\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|d:\\c\u00F3digos\\rhsolutions24\\rhsolutions\\rhsolutions\\interfaces\\isessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|solutionrelative:interfaces\\isessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|d:\\c\u00F3digos\\rhsolutions24\\rhsolutions\\rhsolutions\\interfaces\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|solutionrelative:interfaces\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|d:\\c\u00F3digos\\rhsolutions24\\rhsolutions\\rhsolutions\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22616F1A-61E0-4E1F-B375-2EB9F240232B}|PIMIVRH.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:18:03.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:17:58.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Interfaces\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Interfaces\\SessionExtensions.cs",
+              "ToolTip": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Interfaces\\SessionExtensions.cs",
+              "RelativeToolTip": "Interfaces\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:49:02.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISessionManager.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Interfaces\\ISessionManager.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISessionManager.cs",
+              "ToolTip": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Interfaces\\ISessionManager.cs",
+              "RelativeToolTip": "Interfaces\\ISessionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:49:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "conexaoSql.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Interfaces\\conexaoSql.cs",
+              "RelativeDocumentMoniker": "Interfaces\\conexaoSql.cs",
+              "ToolTip": "D:\\C\u00F3digos\\RHSOLUTIONS24\\RHSOLUTIONS\\RHSOLUTIONS\\Interfaces\\conexaoSql.cs",
+              "RelativeToolTip": "Interfaces\\conexaoSql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:48:55.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<PontoModel>
+<body style="margin-bottom: 0%">
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-auto col-md-2 bg-dark min-vh-100">
+                <div class="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
+                    <a href="/" class="d-flex align-items-center pb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+                        <span class="fs-5 d-none d-sm-inline ">Bem vindo funcionario</span>
+                    </a>
+                    <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
+                        <li class="nav-item">
+                            <a asp-controller="Home" asp-action="Index" class="nav-link align-middle px-0">
+                                <i class="fs-4 bi-house"></i> <span class="ms-1 d-none d-sm-inline">Home</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a data-bs-toggle="collapse" asp-controller="Ponto" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-clock"></i> <span class="ms-1 d-none d-sm-inline">Ponto eletrônico</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-controller="Folha" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-table"></i> <span class="ms-1 d-none d-sm-inline">Folhas de pagamento</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-controller="Ferias" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-airplane"></i> <span class="ms-1 d-none d-sm-inline">Férias</span>
+                            </a>
+                        </li>
+                        <li style="margin-top: auto;">
+                            <a data-bs-toggle="collapse" asp-controller="Login" asp-action="Index" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-box-arrow-in-left"></i> <span class="ms-1 d-none d-sm-inline">Sair</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <hr>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row border Regular shadow" style="margin-top:20px; margin-bottom:20px">
+                    <a>
+                        <i class="fs-4 bi-clock" style="font-size:30px; margin-right: 20px; margin-left:10px"></i><span style="font-size:30px">Ponto</span>
+                    </a>
+                </div>
+                <div class="form-row" style="width:500px; margin-top:10px; margin-bottom:40px;">
+                    <div class="col" style="display:inline-block">
+                        <h4>Horas trabalhadas</h4>
+                        <h2>@ViewBag.data</h2>
+                    </div>
+                    <div class="col" style="display:inline-block">
+                        <h4>Horas à reportar</h4>
+                        <h2>@ViewBag.reportar</h2>
+                    </div>
+                    <div>
+                        @using (Html.BeginForm("BaterPonto", "Ponto", FormMethod.Post))
+                        {
+                        <button type="submit" asp-controller="Ponto" asp-action="BaterPonto" class="btn btn-primary">Bater Ponto</button>
+                        }
+                    </div>
+                </div>
+                @if (Model != null && Model.Any<PontoModel>())
+                {
+                    foreach (PontoModel ponto in Model)
+                    {
+                        <div class="container">
+                            <div class="row border" style="margin-bottom:30px">
+                                <div class="row col-md-12 d-flex justify-content-between">
+                                    <div class="col-md-6">
+                                        Dia: @ponto.Dia
+                                    </div>
+                                    <div class="col-md-6 ">
+                                        Total horas: @ponto.HorasTrabalhadas
+                                    </div>
+                                    <div class="col border-top border-bottom">
+                                        Entrada: @ponto.PrimeiraBatida
+                                    </div>
+                                    <div class="col border-top border-bottom">
+                                        Saida: @ponto.SegundaBatida
+                                    </div>
+                                    <div class="col border-top border-bottom">
+                                        Entrada: @ponto.TerceiraBatida
+                                    </div>
+                                    <div class="col border-top border-bottom">
+                                        Saida: @ponto.QuartaBatida
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+
+
+
+            </div>
+        </div>
+    </div>
+</body>

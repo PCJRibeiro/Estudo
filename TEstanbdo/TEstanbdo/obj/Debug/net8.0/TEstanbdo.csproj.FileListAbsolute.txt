@@ -1,0 +1,14 @@
+D:\Códigos\TEstanbdo\TEstanbdo\bin\Debug\net8.0\TEstanbdo.exe
+D:\Códigos\TEstanbdo\TEstanbdo\bin\Debug\net8.0\TEstanbdo.deps.json
+D:\Códigos\TEstanbdo\TEstanbdo\bin\Debug\net8.0\TEstanbdo.runtimeconfig.json
+D:\Códigos\TEstanbdo\TEstanbdo\bin\Debug\net8.0\TEstanbdo.dll
+D:\Códigos\TEstanbdo\TEstanbdo\bin\Debug\net8.0\TEstanbdo.pdb
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\TEstanbdo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\TEstanbdo.AssemblyInfoInputs.cache
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\TEstanbdo.AssemblyInfo.cs
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\TEstanbdo.csproj.CoreCompileInputs.cache
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\TEstanbdo.dll
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\refint\TEstanbdo.dll
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\TEstanbdo.pdb
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\TEstanbdo.genruntimeconfig.cache
+D:\Códigos\TEstanbdo\TEstanbdo\obj\Debug\net8.0\ref\TEstanbdo.dll
