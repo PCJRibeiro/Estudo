@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Códigos\\Estudo\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj": {}
+    "D:\\Códigos\\Estudo C#\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj": {}
   },
   "projects": {
-    "D:\\Códigos\\Estudo\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj": {
+    "D:\\Códigos\\Estudo C#\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Códigos\\Estudo\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj",
+        "projectUniqueName": "D:\\Códigos\\Estudo C#\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj",
         "projectName": "CalculationPrice",
-        "projectPath": "D:\\Códigos\\Estudo\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj",
+        "projectPath": "D:\\Códigos\\Estudo C#\\CalculationPrice\\CalculationPrice\\CalculationPrice.csproj",
         "packagesPath": "C:\\Users\\pcjr2\\.nuget\\packages\\",
-        "outputPath": "D:\\Códigos\\Estudo\\CalculationPrice\\CalculationPrice\\obj\\",
+        "outputPath": "D:\\Códigos\\Estudo C#\\CalculationPrice\\CalculationPrice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Download\\Programas\\ferramentas VS\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
